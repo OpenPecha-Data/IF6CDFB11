@@ -1,0 +1,16 @@
+id: IF6CDFB11
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:33:42.508385
+last_modified: 2023-02-10 00:33:42.508491
+source_metadata:
+  title: 'Nāgārjuna: Vigrahavyāvartanīvṛtti'
+  language: sa
+bases:
+  8A2B:
+    base_file: 8A2B.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

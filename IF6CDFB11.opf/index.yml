@@ -1,0 +1,47 @@
+id: a34ba19b5aa2424e8382d4ded3519d28
+annotation_type: index
+revision: '00001'
+annotations:
+  b0b4c26ebff240e181f5fc8ff9832a25:
+    base: 8A2B.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 22
+    - title: Preface
+      span:
+        start: 23
+        end: 33
+    - title: Verse 1-10
+      span:
+        start: 34
+        end: 8674
+    - title: Verse 11-20
+      span:
+        start: 8675
+        end: 12532
+    - title: Verse 21-30
+      span:
+        start: 12533
+        end: 20039
+    - title: Verse 31-40
+      span:
+        start: 20040
+        end: 24774
+    - title: Verse 41-50
+      span:
+        start: 24775
+        end: 28407
+    - title: Verse 51-60
+      span:
+        start: 28408
+        end: 34973
+    - title: Verse 61-70
+      span:
+        start: 34974
+        end: 41291
+    - title: Colophon
+      span:
+        start: 41292
+        end: 41332
